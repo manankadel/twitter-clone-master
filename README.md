@@ -4,11 +4,7 @@
 
 ## Description
 
-A full-stack Twitter clone app built using Node.js, Express.js, React.js, and MongoDB.
-
-### Background
-
-The project was originally created a few years ago and as I have learned a lot since then I recently decided to update it and create the base for developing new features.
+A full-stack Twitter clone app built using MERN STACK - Node.js, Express.js, React.js, and MongoDB.
 
 ## Getting Started
 
@@ -79,7 +75,3 @@ To run tests with Cypress first, copy the `client/.env` file to a `client/.env.l
 ```bash
 $ npm run cypress:open
 ```
-
-## Inspirations
-
-- https://github.com/hagopj13/node-express-boilerplate (server)
